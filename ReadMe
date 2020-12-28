@@ -1,0 +1,10 @@
+I attempted to process this data using the T program
+(Pulled on December 28, 2020)
+
+T 3600 *
+
+Finds 1 hot, 5 high galactic latitudes, and 1 high elevation spectra
+
+Gives errors, stating
+"Min velocity index out of range... plotting vs frequency"
+
