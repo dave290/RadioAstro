@@ -1,0 +1,23 @@
+21-05-21T213356.kel
+Velocity_(km/s)
+Initial parameters: center, coefficient, sigma
+Peak A [45000.0, 5.0, 2000.0]
+Peak B [100000.0, 5.0, 5000.0]
+Peak C [10000.0, 5.0, 2000.0]
+Flags: Peak A (x3), Peak B (x3), Peak C (x3)
+Flag A [1, 1, 1]
+Flag B [1, 1, 1]
+Flag C [1, 1, 1]
+Iterations, startline, endline
+[10, 65, 466]
+Stepsize & Maximum Passes: Center (x2), Coefficient (x2), Sigma (x2)
+[1000.0, 100, 0.5, 100, 500.0, 100]
+Differences
+[99999, 2525]
+[99999, 2525, 232]
+[99999, 2525, 232, 117]
+[99999, 2525, 232, 117, 104]
+Final parameters
+Peak A [37000.0, 17.0, 7500.0]
+Peak B [84000.0, 9.0, 21500.0]
+Peak C [19000.0, 11.0, 4500.0]
