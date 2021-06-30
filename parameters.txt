@@ -1,0 +1,33 @@
+# Parameter file for fit.py
+# For initial guess, set all flags to "0"
+# For subsequent fitting, set flags to "1" for parameters you wish to fit
+# Make sure that there is always a space before every parameter
+#
+File 21-05-21T213356.kel
+Iterations 10
+Coordinate Velocity_(km/s)
+Lowerfitthreshold -50000.0
+Upperfitthreshold +149000.0
+S centerstepsize&maxsteps 1000  100
+S coefficientstepsize&steps 0.5 100
+S sigmastepsize&steps 500 100
+#
+# Peak A
+P center 45000
+P coef 5
+P sigma 2000
+F 1 1 1
+#
+# Peak B
+P center 100000
+P coef 5
+P sigma 5000
+F 1 1 1
+#
+# Peak C
+P center 10000
+P coef 5
+P sigma 2000
+F 1 1 1
+#
+# End of parameters. Do not hit return at the end of this line!
